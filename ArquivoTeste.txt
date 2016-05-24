@@ -1,6 +1,10 @@
 Primeira alteração...
 Segunda alteracao...
 ---
+---
 Realizando alteracoes e localizado na branch hotfixes
-----
+---
+---
 Realizando alteracoes e localizado na branch develop
+---
+---
