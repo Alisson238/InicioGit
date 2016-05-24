@@ -1,6 +1,5 @@
-Primeira alteração...
-Segunda alteracao...
---->
+Finalizando as alteracoes no arquivo e realizando o merge com a brach Master
+->
 ->
 Realizando alteracoes e localizado na branch hotfixes
 ->
